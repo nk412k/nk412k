@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 - 👋 Hi, I’m Nokhalal Mahato
 - 👀 I’m interested in competative programming, Web Development,App Development
