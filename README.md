@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Nokhalal Mahato
 - 👀 I’m interested in competative programming, Web Development,App Development
-- 🌱 I’m currently learning App development and Backend development
+- 🌱 I’m currently learning App development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
